@@ -110,7 +110,3 @@ Open [http://localhost:3000](http://localhost:3000).
 - On-prem Ollama/vLLM deployment for offices handling classified material
 - State-level expansion (state AG, Governor, state legislator workflows)
 
-
-## License
-
-MIT — go build something better.
