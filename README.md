@@ -112,11 +112,6 @@ Open [http://localhost:3000](http://localhost:3000).
 - On-prem Ollama/vLLM deployment for offices handling classified material
 - State-level expansion (state AG, Governor, state legislator workflows)
 
-## Judging criteria — self-assessment
-
-- **Execution:** Three fully-working Claude-backed endpoints, a working PII scrubber, and a loaded demo environment with planted patterns.
-- **Novelty:** Nobody is building software for Congressional casework. The cross-case fraud-clustering angle is a real insight.
-- **Difficulty:** Multi-prompt orchestration, privacy-aware preprocessing, and getting Claude to only surface clusters with 3+ supporting cases (not spurious noise) is non-trivial prompt engineering.
 
 ## License
 
