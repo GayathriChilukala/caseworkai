@@ -44,8 +44,6 @@ One Medicare complaint is a sad anecdote. Four complaints about the same supplie
 
 Watch the 2-minute demo: **[paste link after recording]**
 
-Or run it locally and point it at the 20 seed cases in [`data/seed_cases.json`](./app/data/seed_cases.json).
-
 ## Architecture
 
 ```
