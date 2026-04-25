@@ -1,4 +1,5 @@
 # Casework.AI
+<img width="1469" height="829" alt="image" src="https://github.com/user-attachments/assets/cc48bd6a-def7-4fe3-aef4-c9ec7dab2a33" />
 
 **The operating system for Congressional casework.**
 
