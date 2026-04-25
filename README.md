@@ -22,7 +22,6 @@ When a regular American has a problem with a federal agency — a veteran whose 
 Meanwhile, **the same fraud patterns recur in caseloads across dozens of offices** — a Medicare supplier billing ghost claims, an SSA policy misfiring nationwide — but no one can see them because each caseworker only sees their own cases.
 
 ## What Casework.AI does
-
 ### One product, three jobs:
 
 **1. Intake triage (Track A — AI for Government)**
@@ -42,7 +41,7 @@ One Medicare complaint is a sad anecdote. Four complaints about the same supplie
 
 ## Demo
 
-Watch the 2-minute demo: **[paste link after recording]**
+Watch the 2-minute demo: **[https://youtu.be/0KVV0Ku-BfQ]**
 
 ## Architecture
 
